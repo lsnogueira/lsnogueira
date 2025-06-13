@@ -27,12 +27,6 @@ Always learning, always building, always refactoring. 🚀
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Modern Angular Features
-
-![Signals](https://img.shields.io/badge/Angular_Signals-4CAF50?style=for-the-badge&logo=angular&logoColor=white)
-![Standalone](https://img.shields.io/badge/Standalone_Components-FF6B6B?style=for-the-badge&logo=angular&logoColor=white)
-![Control Flow](https://img.shields.io/badge/New_Control_Flow-00ACC1?style=for-the-badge&logo=angular&logoColor=white)
-
 ### State Management & Architecture
 
 ![NgRx](https://img.shields.io/badge/NgRx-BA52DE?style=for-the-badge&logo=redux&logoColor=white)
@@ -70,14 +64,14 @@ Always learning, always building, always refactoring. 🚀
 
 When I'm not crafting beautiful TypeScript or debating the best state management patterns:
 
-- 🏄‍♂️ **Surfing** - 10+ years chasing waves and finding peace in the ocean
+- 🏄‍♂️ **Surfing** - Chasing waves and finding peace in the ocean
 - 🌍 **Adventure Seeker** - Always hunting for the next perfect surf spot
 - 📚 **Tech Explorer** - Diving into articles, conferences, and that one "quick" refactor at 2 AM
 - 💡 **Side Project Enthusiast** - Building things nobody asked for but everyone needs
 
 ## 🚀 Currently Exploring
 
-- 🔥 Playing with Angular 18's Signals in real-world scenarios
+- 🔥 Playing with Angular Signals in real-world scenarios
 - 🏗️ Experimenting with white-label architectures that actually scale
 - 📱 Pushing Ionic to its limits with native-like animations
 - 🤖 Curious about AI-powered development workflows
