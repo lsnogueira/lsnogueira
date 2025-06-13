@@ -9,10 +9,6 @@
 
 <h3 align="center">💻 TypeScript Enthusiast | 🅰️ Angular Developer | 🏄‍♂️ Wave Rider</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lsnogueira&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
 ## 💫 About Me
 
 Passionate TypeScript developer who loves building elegant solutions with modern Angular. I'm fascinated by the latest framework features like **Signals**, **Standalone Components**, and the **new Control Flow syntax**. Clean code isn't just a practice for me - it's a philosophy.
