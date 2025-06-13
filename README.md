@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Olá+Mundo!;Hola+Mundo!;Bonjour+le+Monde!;Ciao+Mondo!;こんにちは世界!&font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=100" alt="Greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+my+profile!;Happy+coding!;Let's+build+something+amazing!" alt="Greeting" />
 </div>
 
 <h1 align="center">
