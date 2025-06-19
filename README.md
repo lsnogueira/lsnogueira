@@ -19,7 +19,7 @@ Always learning, always building, always refactoring. 🚀
 
 ## 🛠️ Tech Stack
 
-### Frontend Excellence
+### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
